@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactParcijalni/static/css/main.ce87c8ab.css",
+    "main.js": "/reactParcijalni/static/js/main.120684ed.js",
+    "static/js/787.14c43e7a.chunk.js": "/reactParcijalni/static/js/787.14c43e7a.chunk.js",
+    "index.html": "/reactParcijalni/index.html",
+    "main.ce87c8ab.css.map": "/reactParcijalni/static/css/main.ce87c8ab.css.map",
+    "main.120684ed.js.map": "/reactParcijalni/static/js/main.120684ed.js.map",
+    "787.14c43e7a.chunk.js.map": "/reactParcijalni/static/js/787.14c43e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce87c8ab.css",
+    "static/js/main.120684ed.js"
+  ]
+}
